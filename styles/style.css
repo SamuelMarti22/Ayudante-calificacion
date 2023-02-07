@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color:#C9F4AA;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+.instrucciones{
+    margin-top:20px;
+}
+
+.pregunta{
+    display: block;
+    width: 200px;
+    padding: 30px;
+}
+
+.pregunta input{
+    width: 12px;
+    height: 12px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+#calificar{
+    display: flex;
+    flex-direction: row;
+}
